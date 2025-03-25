@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @milonwithmusic
-- 👀 I’m interested in html and CSS 
-- 🌱 I’m currently learning CSS 
-- 💞️ I’m looking to collaborate on CSS
+- 👋 Hi, I’m Firoz 
+- 👀 I’m interested in web development  
+- 🌱 I’m currently learning HTML CSS and JS through on hand projects  
+- 💞️ I’m looking to collaborate with reputable organizations and wanna be a part of it while grow my career further.
 - 📫 How to reach me....
 
 <!---
