@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Firoz 
-- 👀 I’m interested in web development  
-- 🌱 I’m currently learning HTML CSS and JS through on-hand projects  
-- 💞️ I’m looking to collaborate with reputable organizations and want to contribute in the tech world. 
+- 👋 Hi, I’m Firoz
+- 👀 I’m developing websites using HTML, CSS, Bootstrap5, jQuery, and PHP.  
+- 💞️ I’m looking to collaborate with reputable organizations and want to immerse myself as a problem solver. 
 - 📫 How to reach me....
 
 <!---
