@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Firoz
-- 👀 I’m developing websites using HTML, CSS, Bootstrap5, jQuery, and PHP.  
+- 👀 I’m developing websites using PHP, Laravel at this moment. I'm also on the way to enhance my skills through MERN stack development.   
 - 💞️ I’m looking to collaborate with reputable organizations and want to immerse myself as a problem solver. 
 - 📫 How to reach me....
 
